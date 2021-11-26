@@ -1,1 +1,1 @@
-#Micro FrontEnd structure with Webpack5 and module federation
+# Micro FrontEnd with Webpack5 and module federation
