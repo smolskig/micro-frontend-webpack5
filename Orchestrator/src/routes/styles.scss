@@ -1,0 +1,21 @@
+body, html, #app {
+    width:100%;
+    height:100%;
+    margin:0;
+    box-sizing: border-box;
+}
+.orchestrator {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  border:4px dashed red;
+
+  h1 {
+      width:100%;
+      margin:0;
+  }
+
+  .navbar {
+      width:200px;
+  }
+}
